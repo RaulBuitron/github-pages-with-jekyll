@@ -1,2 +1,4 @@
-ttitle: "this is my blog bruh"
+-----------------------------
+title: "this is my blog bruh"
 date: 2019-09-19
+-----------------------------
